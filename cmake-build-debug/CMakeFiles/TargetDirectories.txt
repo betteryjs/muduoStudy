@@ -1,6 +1,0 @@
-/home/yjs/CPP/muduoStudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/yjs/CPP/muduoStudy/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yjs/CPP/muduoStudy/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir
-/home/yjs/CPP/muduoStudy/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
-/home/yjs/CPP/muduoStudy/cmake-build-debug/bin/CMakeFiles/Observe_safe.dir
-/home/yjs/CPP/muduoStudy/cmake-build-debug/bin/CMakeFiles/Counter.dir
